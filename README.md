@@ -24,6 +24,10 @@
 - https://medium.com/@alcbotta/running-an-mcp-server-and-client-locally-with-ollama-b8b4c098c7fb 
 - https://dev.to/ajitkumar/building-your-first-agentic-ai-complete-guide-to-mcp-ollama-tool-calling-2o8g 
 
+## TOOLS 
+- https://ollama.com/
+- https://lmstudio.ai/
+- https://docs.vllm.ai/en/latest/
 
 # LOCAL AI LINKS
 
