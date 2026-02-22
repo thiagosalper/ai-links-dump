@@ -26,6 +26,8 @@ Good luck!
 ### AI SERVICES 
 - https://www.thesys.dev/ 
 - https://stitch.withgoogle.com/ 
+- https://moondream.ai 
+- https://whisperai.com
 
 ### ARTICLES
 - https://hub.asimov.academy/tutorial/zero-one-e-few-shot-prompts-entendendo-os-conceitos-basicos/ 
