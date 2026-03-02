@@ -110,24 +110,3 @@ Objetivo é entender os conceitos básicos e conhecer algumas formas e ferrament
   
   - 5 - Segurança, conformidade e governança para soluções de IA: Explicar os métodos para proteger os sistemas de IA / Reconhecer os regulamentos de governança e conformidade de sistemas de IA.
 
-
-## POC AI "RepoGraph"
-Projeto com foco, dentro outras features programáveis, em ser uma ferramenta da arquitetura com features usando ia para:
-- Sumarizar últimas alterações de um projeto 
-- Resumir e descrever o que faz a versão xy de projeto 
-- Baseado em leitura de release notes, changelogs e commits 
-- Conseguir relacionar crashs e problemas com itens acima
-- Encontrar brechas de segurança e bugs relacionados a libs usadas
-- Gerar insights de bundles encontrando padrões observados nos últimos releases de bundles e libs
-
-## Use case AI InterviewAI
-Projeto na consultoria para apoio no processo de seleção de candidatos para vagas de tech.
-- Dentre as features não programáveis estão:
-  - Feedback estruturado com base na conversa ao-vivo. 
-  - Extração de skills de descrição de vagas para contexto de conhecimento. 
-  - Extração de hard e soft skills de cvs pdf. 
-  - Resumo amigável e construtivo para pontos de melhoria com base em cruzamento vaga<>cv. 
-  - Checagem de aderência individual, com justificativa. 
-  - Checagem de aderência em lote, com justificativa individual. 
-  - Pontuação de aderência.
-- Meetup dia 05/03, link do pitch em breve :)

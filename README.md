@@ -22,12 +22,18 @@ Good luck!
 - https://openclaw.ai/ 
 - https://antigravity.google/ 
 - https://openrouter.ai/ 
+- https://github.com/duckdb/duckdb
+- https://github.com/langchain-ai/langchain
+- https://neo4j.com/
+- https://clawhub.ai/
+
 
 ### AI SERVICES 
 - https://www.thesys.dev/ 
 - https://stitch.withgoogle.com/ 
 - https://moondream.ai 
 - https://whisperai.com
+- https://mastra.ai
 
 ### ARTICLES
 - https://hub.asimov.academy/tutorial/zero-one-e-few-shot-prompts-entendendo-os-conceitos-basicos/ 
@@ -37,7 +43,8 @@ Good luck!
 - https://medium.com/@atharvakhadilkar13/getting-started-with-local-llms-038457cff410 
 - https://medium.com/@alcbotta/running-an-mcp-server-and-client-locally-with-ollama-b8b4c098c7fb 
 - https://dev.to/ajitkumar/building-your-first-agentic-ai-complete-guide-to-mcp-ollama-tool-calling-2o8g 
-- https://dev.to/the_aayush_mishra/setting-up-rag-locally-with-ollama-a-beginner-friendly-guide-428m 
+- https://dev.to/the_aayush_mishra/setting-up-rag-locally-with-ollama-a-beginner-friendly-guide-428m
+- https://medium.com/@mdbaraujo/chromadb-seu-banco-de-dados-vetorial-open-source-nativo-para-ia-5f60ac66597b  
 
 ### TOOLS 
 - https://ollama.com/
